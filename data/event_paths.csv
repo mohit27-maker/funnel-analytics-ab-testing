@@ -1,0 +1,16 @@
+path,sessions,pct
+view_item,56981,73.7
+view_item > add_to_cart,8551,11.1
+view_item > begin_checkout,3007,3.9
+view_item > add_to_cart > begin_checkout > purchase,2540,3.3
+view_item > add_to_cart > begin_checkout,2331,3.0
+view_item > begin_checkout > purchase,1827,2.4
+add_to_cart > view_item,663,0.9
+view_item > begin_checkout > add_to_cart,558,0.7
+add_to_cart > view_item > begin_checkout > purchase,218,0.3
+add_to_cart > view_item > begin_checkout,213,0.3
+begin_checkout > purchase,147,0.2
+begin_checkout,132,0.2
+view_item > begin_checkout > add_to_cart > purchase,52,0.1
+view_item > begin_checkout > purchase > add_to_cart,24,0.0
+begin_checkout > purchase > view_item,18,0.0

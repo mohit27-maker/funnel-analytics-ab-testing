@@ -1,0 +1,6 @@
+step,event_name,users,pct_of_start,dropoff_pct
+1,session_start,267116,100.0,
+2,view_item,61252,22.9,77.1
+3,add_to_cart,12545,4.7,79.5
+4,begin_checkout,9715,3.6,22.6
+5,purchase,4419,1.7,54.5
