@@ -88,4 +88,4 @@ SQL (BigQuery), Python (pandas, seaborn, scipy, statsmodels), Excel, Power BI
 
 ## Author
 
-Mohit | <LinkedIn URL> | <GitHub URL>
+Mohit | [LinkedIn](https://www.linkedin.com/in/mohit-sengar-16096a2bb) | [GitHub](https://github.com/mohit27-maker) 
